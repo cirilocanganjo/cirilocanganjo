@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Cirilo Canganjo
+- 👋 Hi, my name is Cirilom Cussaca Canganjo
 - # 💻 Tech Stack
   
 
